@@ -1,3 +1,6 @@
 node_modules/
 .env
 *.log
+Express/node_modules/
+*.log
+.env
